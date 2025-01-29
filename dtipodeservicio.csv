@@ -1,0 +1,4 @@
+idtipodeservicio;tipodeservicio;clasificacion_tiposervicio
+1;Petición de serv. por el usuario;Peticion
+2;Restauración de servicio a usuario;Incidencia
+3;Restauración de infraestructura;Incidencia

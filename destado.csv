@@ -1,0 +1,15 @@
+idestado;estado;estadosla
+1;Asignado;Advertencia
+2;Asignado;Cumplido
+3;Asignado;Incumplido
+4;Asignado;No informado
+9;Cerrado;Cumplido
+10;Cerrado;Incumplido
+11;Cerrado;No informado
+12;Pendiente;Advertencia
+13;Pendiente;Cumplido
+14;Pendiente;Incumplido
+15;Pendiente;No informado
+16;Resuelto;Cumplido
+17;Resuelto;Incumplido
+18;Resuelto;No informado
